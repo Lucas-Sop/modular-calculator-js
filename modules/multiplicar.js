@@ -1,3 +1,3 @@
-module.exports = function dividir(a,b){
-    return a/b;
+module.exports = function multiplicar(a,b){
+    return a*b;
 }
